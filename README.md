@@ -1,4 +1,4 @@
-# TweetsAnalysis
+# Tweets Analysis
 
 ## Intro
 This project was developed as a form of evaluation of the course "Introduction to Python programming" in the MBA in Data Science at the University of Fortaleza.
